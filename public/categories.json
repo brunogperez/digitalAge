@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Auriculares",
+        "image": "https://res.cloudinary.com/divujqlv8/image/upload/v1718146872/Auriculares_TrueWireless_550x680_jkd1cd.webp"
+    },
+    {
+        "id": 2,
+        "title": "Joysticks",
+        "image": "https://res.cloudinary.com/divujqlv8/image/upload/v1718145703/Mandos-PS5-vs-Xbox_gyfg0l.webp"
+    },
+    {
+        "id": 3,
+        "title": "Smartwatchs",
+        "image": "https://res.cloudinary.com/divujqlv8/image/upload/v1718150680/photo-1551480634-4263800a3868_wudwhu.webp"
+    },
+    {
+        "id": 4,
+        "title": "Parlantes",
+        "image": "https://res.cloudinary.com/divujqlv8/image/upload/v1718152213/215642-7-mejores-altavoces-inalambricos-bluetooth-2016_mst4n6.webp"
+    }
+]
