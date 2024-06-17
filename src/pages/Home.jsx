@@ -1,20 +1,27 @@
 import React from 'react'
-import { Box, Button, Card, CardActions, CardContent, CardMedia, Grid, ImageList, ImageListItem, ImageListItemBar, Typography } from '@mui/material'
+import { Box, Card, CardContent, CardMedia, Fab, Grid, ImageList, ImageListItem, ImageListItemBar, Typography } from '@mui/material'
 import { styled } from '@mui/material/styles'
-import brands from '../../public/brands.json'
-import categories from '../../public/categories.json'
-import products from '../../public/products.json'
-
+import WhatsAppIcon from '@mui/icons-material/WhatsApp'
+import brands from '../database/brands.json'
+import categories from '../database/categories.json'
+import ItemList from '../components/ItemList'
+import Footer from '../components/Footer'
+import SocialNetworks from '../components/SocialNetworks'
 
 
 const StyledImg = styled('img')(({ theme }) => ({
-  width: '10vh',
+  width: '10vh'
 }))
 
 
 export const Home = () => {
+
+
   return (
     <>
+      <Fab color='success' sx={{ margin: 2, position: 'fixed', right: 20, bottom: 20, }} >
+        <WhatsAppIcon />
+      </Fab>
       <Box sx={{ width: '100%', height: '100%', justifyContent: 'center', alignItems: 'center', backgroundColor: 'lightgrey', paddingY: 3 }}>
         <Card sx={{ minWidth: 275, maxHeight: '200vh', padding: 1, marginX: 'auto', maxWidth: '60%' }}>
           <CardContent>
@@ -40,29 +47,12 @@ export const Home = () => {
         </Grid>
       </Box>
 
-      <Box sx={{ width: '100%', margin: '10vh' }}>
-        {products.map((item) => {
-          <Card sx={{ maxWidth: 345 }}>
-            <CardMedia
-              sx={{ height: 140 }}
-              image={item.image}
-              title="green iguana"
-            />
-            <CardContent>
-              <Typography gutterBottom variant="h5" component="div">
-                Lizard
-              </Typography>
-              <Typography variant="body2" color="text.secondary">
-                Lizards are a widespread group of squamate reptiles, with over 6,000
-                species, ranging across all continents except Antarctica
-              </Typography>
-            </CardContent>
-            <CardActions>
-              <Button size="small">Share</Button>
-              <Button size="small">Learn More</Button>
-            </CardActions>
-          </Card>
-        })}
+      {/* mapeo de las cards de los productos */}
+      <Box>
+        <Typography variant='h4' mx={5}>
+          Smartphones
+        </Typography>
+        <ItemList category='smartphones' />
       </Box>
 
       <Box sx={{ backgroundColor: 'lightgrey' }} >
@@ -81,9 +71,17 @@ export const Home = () => {
             ))}
           </ImageList>
         </Grid>
+
       </Box >
-
-
+      <Box>
+        <CardMedia
+          component='img'
+          sx={{ width: '100%', objectFit: 'contain' }}
+          src='https://res.cloudinary.com/divujqlv8/image/upload/v1718636910/banner_nf9s4r.webp'
+        />
+      </Box>
+      <SocialNetworks />
+      <Footer />
 
     </>
   )

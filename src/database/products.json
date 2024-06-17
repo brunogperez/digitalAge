@@ -1,0 +1,1069 @@
+[
+  {
+    "brand": "Apple",
+    "category": "smartphones",
+    "description": "An apple mobile which is nothing like apple",
+    "discountPercentage": 12.96,
+    "id": 1,
+    "images": [
+      "https://imgs.search.brave.com/aZ6C0oHMMWXH1Kos822_ahmv_33PlX0l7rsGwTtb9YQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LWxpYnJhcnku/Y29tL2ltYWdlX2dh/bGxlcnkyL0lQaG9u/ZS1QTkctUGljdHVy/ZS5wbmc",
+      "https://cdn.dummyjson.com/product-images/1/2.jpg",
+      "https://cdn.dummyjson.com/product-images/1/3.jpg",
+      "https://cdn.dummyjson.com/product-images/1/4.jpg",
+      "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+    ],
+    "price": 549,
+    "rating": 4.69,
+    "stock": 94,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+    "title": "iPhone 9"
+  },
+  {
+    "brand": "Apple",
+    "category": "smartphones",
+    "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+    "discountPercentage": 17.94,
+    "id": 2,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/2/1.jpg",
+      "https://cdn.dummyjson.com/product-images/2/2.jpg",
+      "https://cdn.dummyjson.com/product-images/2/3.jpg",
+      "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+    ],
+    "price": 899,
+    "rating": 4.44,
+    "stock": 34,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+    "title": "iPhone X"
+  },
+  {
+    "brand": "Samsung",
+    "category": "smartphones",
+    "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+    "discountPercentage": 15.46,
+    "id": 3,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/3/1.jpg"
+    ],
+    "price": 1249,
+    "rating": 4.09,
+    "stock": 36,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+    "title": "Samsung Universe 9"
+  },
+  {
+    "brand": "OPPO",
+    "category": "smartphones",
+    "description": "OPPO F19 is officially announced on April 2021.",
+    "discountPercentage": 17.91,
+    "id": 4,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/4/1.jpg",
+      "https://cdn.dummyjson.com/product-images/4/2.jpg",
+      "https://cdn.dummyjson.com/product-images/4/3.jpg",
+      "https://cdn.dummyjson.com/product-images/4/4.jpg",
+      "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+    ],
+    "price": 280,
+    "rating": 4.3,
+    "stock": 123,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+    "title": "OPPOF19"
+  },
+  {
+    "brand": "Huawei",
+    "category": "smartphones",
+    "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+    "discountPercentage": 10.58,
+    "id": 5,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/5/1.jpg",
+      "https://cdn.dummyjson.com/product-images/5/2.jpg",
+      "https://cdn.dummyjson.com/product-images/5/3.jpg"
+    ],
+    "price": 499,
+    "rating": 4.09,
+    "stock": 32,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+    "title": "Huawei P30"
+  },
+  {
+    "brand": "Apple",
+    "category": "laptops",
+    "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+    "discountPercentage": 11.02,
+    "id": 6,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/6/1.png",
+      "https://cdn.dummyjson.com/product-images/6/2.jpg",
+      "https://cdn.dummyjson.com/product-images/6/3.png",
+      "https://cdn.dummyjson.com/product-images/6/4.jpg"
+    ],
+    "price": 1749,
+    "rating": 4.57,
+    "stock": 83,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/6/thumbnail.png",
+    "title": "MacBook Pro"
+  },
+  {
+    "brand": "Samsung",
+    "category": "laptops",
+    "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+    "discountPercentage": 4.15,
+    "id": 7,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/7/1.jpg",
+      "https://cdn.dummyjson.com/product-images/7/2.jpg",
+      "https://cdn.dummyjson.com/product-images/7/3.jpg",
+      "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+    ],
+    "price": 1499,
+    "rating": 4.25,
+    "stock": 50,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg",
+    "title": "Samsung Galaxy Book"
+  },
+  {
+    "brand": "Microsoft Surface",
+    "category": "laptops",
+    "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+    "discountPercentage": 10.23,
+    "id": 8,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/8/1.jpg",
+      "https://cdn.dummyjson.com/product-images/8/2.jpg",
+      "https://cdn.dummyjson.com/product-images/8/3.jpg",
+      "https://cdn.dummyjson.com/product-images/8/4.jpg",
+      "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+    ],
+    "price": 1499,
+    "rating": 4.43,
+    "stock": 68,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg",
+    "title": "Microsoft Surface Laptop 4"
+  },
+  {
+    "brand": "Infinix",
+    "category": "laptops",
+    "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+    "discountPercentage": 11.83,
+    "id": 9,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/9/1.jpg",
+      "https://cdn.dummyjson.com/product-images/9/2.png",
+      "https://cdn.dummyjson.com/product-images/9/3.png",
+      "https://cdn.dummyjson.com/product-images/9/4.jpg",
+      "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+    ],
+    "price": 1099,
+    "rating": 4.54,
+    "stock": 96,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg",
+    "title": "Infinix INBOOK"
+  },
+  {
+    "brand": "HP Pavilion",
+    "category": "laptops",
+    "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
+    "discountPercentage": 6.18,
+    "id": 10,
+    "images": [
+      "https://cdn.dummyjson.com/product-images/10/1.jpg",
+      "https://cdn.dummyjson.com/product-images/10/2.jpg",
+      "https://cdn.dummyjson.com/product-images/10/3.jpg",
+      "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+    ],
+    "price": 1099,
+    "rating": 4.43,
+    "stock": 89,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg",
+    "title": "HP Pavilion 15-DK1056WM"
+  },
+ 
+  
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 25,
+    "id": 102,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 2102.77,
+    "rating": 3,
+    "stock": 22,
+    "thumbnail": "",
+    "title": "ROMPEOIDOS 3 ONLY"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 23,
+    "id": 103,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 8235.85,
+    "rating": 2,
+    "stock": 27,
+    "thumbnail": "",
+    "title": "SAMSUNG AKG TIPO C"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 23,
+    "id": 104,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 2102.77,
+    "rating": 4,
+    "stock": 34,
+    "thumbnail": "",
+    "title": "ROMPEOIDOS 4 ONLY"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 30,
+    "id": 105,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 36448,
+    "rating": 1,
+    "stock": 7,
+    "thumbnail": "",
+    "title": "SAMSUNG AKG TIPO C ORIGINAL"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 11,
+    "id": 106,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 6395.92,
+    "rating": 5,
+    "stock": 38,
+    "thumbnail": "",
+    "title": "BLAUPUNKT WIRED EARBUDS"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 20,
+    "id": 107,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 37674.62,
+    "rating": 2,
+    "stock": 50,
+    "thumbnail": "",
+    "title": "HAYLOU GT7"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 21,
+    "id": 108,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 36798.46,
+    "rating": 2,
+    "stock": 47,
+    "thumbnail": "",
+    "title": "HAYLOU GT9 NEGRO"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 12,
+    "id": 109,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 40653.54,
+    "rating": 2,
+    "stock": 18,
+    "thumbnail": "",
+    "title": "AURICULARES LENOVO LP1S"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 11,
+    "id": 110,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 49765.54,
+    "rating": 1,
+    "stock": 32,
+    "thumbnail": "",
+    "title": "QCY T20 AILYPODS"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 10,
+    "id": 111,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 10163.38,
+    "rating": 1,
+    "stock": 46,
+    "thumbnail": "",
+    "title": "AURICULARES F9"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 25,
+    "id": 112,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 8761.54,
+    "rating": 3,
+    "stock": 16,
+    "thumbnail": "",
+    "title": "A6S"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 24,
+    "id": 113,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 0,
+    "rating": 4,
+    "stock": 50,
+    "thumbnail": "",
+    "title": "AURICULARES QCY T5"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 13,
+    "id": 114,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 11390,
+    "rating": 3,
+    "stock": 12,
+    "thumbnail": "",
+    "title": "F9-5"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 12,
+    "id": 115,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 34870.92,
+    "rating": 3,
+    "stock": 15,
+    "thumbnail": "",
+    "title": "HAYLOU X1 NEO"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 16,
+    "id": 116,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 34870.92,
+    "rating": 5,
+    "stock": 28,
+    "thumbnail": "",
+    "title": "haylou-x1-neo"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 25,
+    "id": 117,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 30139.69,
+    "rating": 1,
+    "stock": 7,
+    "thumbnail": "",
+    "title": "AURICULARES AIRPODS PRO PREMIUM APPLE"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 28,
+    "id": 118,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 33819.54,
+    "rating": 2,
+    "stock": 29,
+    "thumbnail": "",
+    "title": "AURICULARES AIRPODS PRO 2 PREMIUM APPLE"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 18,
+    "id": 119,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 29526.38,
+    "rating": 1,
+    "stock": 7,
+    "thumbnail": "",
+    "title": "XIAOMI REDMI BUDS ESSENTIAL"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 19,
+    "id": 120,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 58089,
+    "rating": 5,
+    "stock": 22,
+    "thumbnail": "",
+    "title": "XIAOMI BUDS 4 ACTIVE"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 13,
+    "id": 121,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 48363.69,
+    "rating": 2,
+    "stock": 36,
+    "thumbnail": "",
+    "title": "SKULLCANDY VERT WIRELESS IN-EAR"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 17,
+    "id": 122,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 79554.77,
+    "rating": 3,
+    "stock": 41,
+    "thumbnail": "",
+    "title": "SKULLCANDY DIME"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 24,
+    "id": 123,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 88316.31,
+    "rating": 2,
+    "stock": 4,
+    "thumbnail": "",
+    "title": "SKULLCANDY DIME 2"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 15,
+    "id": 124,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 5432.15,
+    "rating": 3,
+    "stock": 12,
+    "thumbnail": "",
+    "title": "AURICULARES VINCHA ONLY PASTEL MOD74"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 27,
+    "id": 125,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 12879.46,
+    "rating": 3,
+    "stock": 11,
+    "thumbnail": "",
+    "title": "ONLY P9 BLUETOOTH"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 28,
+    "id": 126,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 18399.23,
+    "rating": 5,
+    "stock": 13,
+    "thumbnail": "",
+    "title": "AURICULARES POP IT"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 19,
+    "id": 127,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 21202.92,
+    "rating": 2,
+    "stock": 47,
+    "thumbnail": "",
+    "title": "BLAUPUNKT OVER-EAR"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 24,
+    "id": 128,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 52569.23,
+    "rating": 1,
+    "stock": 29,
+    "thumbnail": "",
+    "title": "HYPER X CLOUD CHAT"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 26,
+    "id": 129,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 12616.62,
+    "rating": 5,
+    "stock": 49,
+    "thumbnail": "",
+    "title": "ONLY G890-20"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 22,
+    "id": 130,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 22780,
+    "rating": 1,
+    "stock": 38,
+    "thumbnail": "",
+    "title": "XTRIKE ME HP311"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 25,
+    "id": 131,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 19275.38,
+    "rating": 3,
+    "stock": 4,
+    "thumbnail": "",
+    "title": "GM-002"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 14,
+    "id": 132,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 25408.46,
+    "rating": 5,
+    "stock": 46,
+    "thumbnail": "",
+    "title": "AURICULARES GAMER C/CABLE DAIHATSU AU407"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 10,
+    "id": 133,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 25934.15,
+    "rating": 2,
+    "stock": 19,
+    "thumbnail": "",
+    "title": "DAIHATSU AU408"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 19,
+    "id": 134,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 33819.54,
+    "rating": 3,
+    "stock": 9,
+    "thumbnail": "",
+    "title": "DAIHATSU AU401"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 21,
+    "id": 135,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 25408.46,
+    "rating": 3,
+    "stock": 46,
+    "thumbnail": "",
+    "title": "DAIHATSU AU402"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 10,
+    "id": 136,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 155079.23,
+    "rating": 3,
+    "stock": 43,
+    "thumbnail": "",
+    "title": "AURICULARES VINCHA SONY INZONE H3"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 30,
+    "id": 137,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 13668,
+    "rating": 3,
+    "stock": 21,
+    "thumbnail": "",
+    "title": "AURICULARES EARPODS LIGHTNING PREMIUM APPLE"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 21,
+    "id": 138,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 7973,
+    "rating": 4,
+    "stock": 7,
+    "thumbnail": "",
+    "title": "AURICULARES EARPODS LIGHTNING C/BLUETOOTH APPLE"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 21,
+    "id": 139,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 10251,
+    "rating": 3,
+    "stock": 17,
+    "thumbnail": "",
+    "title": "AURICULARES EARPODS JACK 3.5 APPLE"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 30,
+    "id": 140,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 18924.92,
+    "rating": 5,
+    "stock": 49,
+    "thumbnail": "",
+    "title": "XIAOMI MI IN EAR"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 27,
+    "id": 141,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 43807.69,
+    "rating": 4,
+    "stock": 13,
+    "thumbnail": "",
+    "title": "JOYSTICK N-SW520 PC/ANDROID/IOS/SWITCH"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 11,
+    "id": 142,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 0,
+    "rating": 5,
+    "stock": 23,
+    "thumbnail": "",
+    "title": "JOYSTICK X3 C/SOPORTE"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 28,
+    "id": 143,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 15332.69,
+    "rating": 3,
+    "stock": 37,
+    "thumbnail": "",
+    "title": "JOYSTICK PS3 C/LOGO"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 19,
+    "id": 144,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 37236.54,
+    "rating": 1,
+    "stock": 32,
+    "thumbnail": "",
+    "title": "JOYSTICK PS4 C/LOGO"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 16,
+    "id": 145,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 2716.08,
+    "rating": 3,
+    "stock": 27,
+    "thumbnail": "",
+    "title": "FUNDAS SILICONA JOYSTICK PS3"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 22,
+    "id": 146,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 2716.08,
+    "rating": 2,
+    "stock": 13,
+    "thumbnail": "",
+    "title": "FUNDAS SILICONA JOYSTICK PS4"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 17,
+    "id": 147,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 3942.69,
+    "rating": 5,
+    "stock": 46,
+    "thumbnail": "",
+    "title": "FUNDAS SILICONA JOYSTICK PS5 CON GRIPS"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 25,
+    "id": 148,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 1577.08,
+    "rating": 5,
+    "stock": 36,
+    "thumbnail": "",
+    "title": "GRIPS PS3/PS4/PS5"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 25,
+    "id": 149,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 15770.77,
+    "rating": 1,
+    "stock": 15,
+    "thumbnail": "",
+    "title": "PARLANTE LITTLE FUN"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 10,
+    "id": 150,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 13755.62,
+    "rating": 4,
+    "stock": 5,
+    "thumbnail": "",
+    "title": "MICROFONO KARAOKE TMMIC 9819"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 29,
+    "id": 151,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 15595.54,
+    "rating": 5,
+    "stock": 47,
+    "thumbnail": "",
+    "title": "PARLANTE NOGA BLUETOOTH 2X1 BT1021"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 15,
+    "id": 152,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 42055.38,
+    "rating": 3,
+    "stock": 18,
+    "thumbnail": "",
+    "title": "PARLANTE BLUETOOTH MT5 2EN1"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 23,
+    "id": 153,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 13843.23,
+    "rating": 5,
+    "stock": 50,
+    "thumbnail": "",
+    "title": "PARLANTE ONLY 113-20BT"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 20,
+    "id": 154,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 10163.38,
+    "rating": 5,
+    "stock": 35,
+    "thumbnail": "",
+    "title": "PARLANTE JBL BOOM MINI"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 28,
+    "id": 155,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 27511.23,
+    "rating": 3,
+    "stock": 14,
+    "thumbnail": "",
+    "title": "BARRA DE SONIDO MINI CROWNMUSTANG KOBA"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 24,
+    "id": 156,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 53445.38,
+    "rating": 3,
+    "stock": 11,
+    "thumbnail": "",
+    "title": "BARRA DE SONIDO MINI KEN BROWN VORTEX"
+  },
+  {
+    "brand": "Samsung",
+    "category": "speakers",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 24,
+    "id": 157,
+    "images": [
+      "https://imgs.search.brave.com/fFOHzIp7n2bWF_SvEpx0Wb5KG0OF9opr_wrKvpYQCIg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHNkLWdyYXRpcy9t/b2NrdXAtYWx0YXZv/ei1mb3JtYS1jaWxp/bmRyb18xMzEwLTk0/NS5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+    ],
+    "price": 70092.31,
+    "rating": 5,
+    "stock": 36,
+    "thumbnail": "",
+    "title": "PARLANTE XIAOMI OUTDOOR MINI"
+  },
+  {
+    "brand": "Samsung",
+    "category": "joysticks",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 25,
+    "id": 158,
+    "images": [
+      "https://imgs.search.brave.com/DdQW0vNQlLoJVV40LXJI9MOXR5Xip-csoA53QLyvINM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/ODk3ODY3My9lcy9m/b3RvL2dhbWVwYWQt/aW5hbCVDMyVBMW1i/cmljby1wYXJhLXhi/b3gtb25lLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1YNzVm/WXNhNU9lY3R0cnIw/WVlhR3JwNHdvYXM3/dkw4Zk5SN0dyaXF5/RlFZPQ"
+    ],
+    "price": 10294.81,
+    "rating": 1,
+    "stock": 48,
+    "thumbnail": "",
+    "title": "JOYSTICK PS2 C/LOGO CABLE"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 17,
+    "id": 159,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 2365.62,
+    "rating": 4,
+    "stock": 31,
+    "thumbnail": "",
+    "title": "SAMSUNG AKG CAJA 3.5"
+  },
+  {
+    "brand": "Samsung",
+    "category": "headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipiscing elit sem felis risus consequat, orci aenean nec vivamus.",
+    "discountPercentage": 12,
+    "id": 160,
+    "images": [
+      "https://imgs.search.brave.com/USkM6kaU6vcpe7arIadlY_SBXCg_sbBnQWzfUVOAdPY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzk1LzMzLzgz/LzM2MF9GXzI5NTMz/ODMwMl9aUVRIWHlT/NmJBUmdTZzUxTWZu/WDdsdEdtZncwTFVC/bC5qcGc"
+    ],
+    "price": 1664.69,
+    "rating": 4,
+    "stock": 16,
+    "thumbnail": "",
+    "title": "SAMSUNG TIPO ORIGINAL BOLSA"
+  }
+]
