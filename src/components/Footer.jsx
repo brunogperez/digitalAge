@@ -1,4 +1,4 @@
-import React from 'react'
+//|import React from 'react'
 import { Box, Divider, IconButton, Stack, TextField, Typography } from '@mui/material'
 import { grey } from '@mui/material/colors'
 import LocalPhoneIcon from '@mui/icons-material/LocalPhone'
@@ -54,7 +54,7 @@ const Footer = () => {
       </Stack>
       <Divider sx={{ borderColor: 'white' }} variant="middle" />
       <Payments />
-      <Typography margin={2} color='white'>
+      <Typography marginX='40%' color='white' width='50%' >
         ©brunogpDev. Todos los derechos 2024.
       </Typography>
     </Box>
